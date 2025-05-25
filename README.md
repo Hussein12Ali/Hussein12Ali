@@ -10,13 +10,21 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<p>🏢 I'm a Software Engineer</p>
+<p>👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p>
+<p>💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.</p>
+<p>
+  ⚡ Fun Fact: I believe that sports, self-improvement, and meaningful connections are the keys to a balanced life.<br>
+  👨‍💻 Check out my portfolio at 
+  <a href="https://Hussein12Ali.github.io" target="_blank">https://Hussein12Ali.github.io</a> 
+  to see some of the projects I've worked on.<br>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle;margin-right:8px;">
+  <a href="https://www.linkedin.com/in/husseinali0246" target="_blank">
+    If you want to see my achievements, visit my LinkedIn profile.
+  </a>
+</p>
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I believe that sports, self-improvement, and meaningful connections are the keys to a balanced life.<br>
-• [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:8px;"> If you want to see my achievements, visit my LinkedIn profile.](https://www.linkedin.com/in/husseinali0246)
-
+</p>
 
 
 
